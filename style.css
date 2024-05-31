@@ -1,0 +1,60 @@
+.h1 {
+    background-color: grey;
+    text-align: center;
+     border-radius : 20px ; 
+     border-color: red;
+     
+}
+
+
+
+.добро {
+    background-color: yellow;
+}
+.span {
+    color: brown;
+}
+.strong {
+    color: green;
+}
+.y {
+    color: red;
+}
+.x {
+    color: yellow;
+}
+.ketmon {
+    color: green;
+}
+.grey {
+    color: grey;
+}
+table,tr,th,td {
+    border: 2px solid rgb(0, 0, 0);
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+    }
+    table { 
+    width: 800px;
+    
+    
+    
+    }
+.aqua {
+    background-color: aqua;
+}
+
+.yellow {
+    background-color: rgb(255, 128, 0);
+}
+
+.green {
+    background-color: rgb(255, 247, 0);
+}
+.red {
+    background-color: rgb(255, 0, 0);
+}
+.polinf {
+    background-color: yellow;
+}
